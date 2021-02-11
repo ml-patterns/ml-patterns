@@ -7,6 +7,7 @@
 * Kernel function
 * Manifold
 * Missing values
+* [Feature importance](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/feature_importance_v1.md)
 * Homoscedasticity
 * Markov property
 * Bias-Variance tradeoff
@@ -14,6 +15,7 @@
 * Minibatching
 * Kernel trick
 * Categorical features
+* [Shapley values](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/shapley_values_v1.md)
 * Linear model
 
 ### Architectural patterns
