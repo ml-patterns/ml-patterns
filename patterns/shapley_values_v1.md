@@ -12,7 +12,7 @@ Calculate the contribution of a specific feature to the overall prediction of th
 
 ### Solution
 
-Shapley numbers are perhaps the fairest way to calculate the [feature importance](https://github.com/ml-patterns/ml-patterns/edit/main/patterns/feature_importance_v1.md) for an arbitrary model. This method considers the model as a game in which the features are the "players" and the outcome of the model is the common "prize". Shapley value is the average marginal contribution of a feature to the "prize" across all possible coalitions of "players". 
+Shapley numbers are perhaps the fairest way to calculate the [feature importance](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/feature_importance_v1.md) for an arbitrary model. This method considers the model as a game in which the features are the "players" and the outcome of the model is the common "prize". Shapley value is the average marginal contribution of a feature to the "prize" across all possible coalitions of "players". 
 
 How to read the plot above:
 
