@@ -20,4 +20,4 @@ Each point on the plot is a Shapley value for a feature and a data point. The po
 
 ### Links
 
-[Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/index.html)
+[Interpretable Machine Learning Book: Shapley Values](https://christophm.github.io/interpretable-ml-book/shapley.html)
