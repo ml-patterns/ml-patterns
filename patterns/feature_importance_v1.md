@@ -18,4 +18,4 @@ There are also model-agnostic methods that treat a model as a black box and use 
 
 ### Links
 
-https://christophm.github.io/interpretable-ml-book/index.html
+[Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/index.html)
