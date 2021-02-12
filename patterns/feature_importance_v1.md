@@ -12,9 +12,9 @@ Calculate the contribution of a specific feature to the overall prediction of th
 
 ### Solution
 
-For some types of models, such as linear and logistic regression and decision trees, there are special fast and well-interpreted methods.
+For some types of models, such as [linear]() and [logistic regression]() and [decision trees](), there are special fast and well-interpreted methods.
 
-There are also model-agnostic methods that treat a model as a black box and use only information about its inputs and predictions. The most theoretically justified and stable method is the [Shapley values](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/shapley_values_v1.md) method, which, however, is computationally expensive. [Permutation method]() and [local surrogate interpretable models]()  are also often used.
+There are also model-agnostic methods that treat a model as a black box and use only information about its inputs and predictions. The most theoretically justified and stable method is the [Shapley values](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/shapley_values_v1.md) method, which, however, is computationally expensive. [Permutation methods]() and [local surrogate interpretable models]()  are also often used.
 
 ### Links
 
