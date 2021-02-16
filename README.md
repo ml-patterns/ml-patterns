@@ -6,14 +6,15 @@ A **pattern** is a description of a common situation, its standard solution, plu
 
 Various aspects of ML-related projects will be covered:
 
-mathematical
-technical
-devops
-managerial
-entrepreneurial
-personnel
-financial
-marketing and others
+* mathematical
+* technical
+* devops
+* QA
+* managerial
+* entrepreneurial
+* personnel
+* financial
+* marketing and others
 
 The format of the **case** is the same as that of the **pattern**: a picture, a description of the situation and its solution, plus (optionally) a link to the author and / or company. The difference between a **case** and a **pattern** is that a specific project is described in a **case**.
 
