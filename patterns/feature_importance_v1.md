@@ -2,7 +2,7 @@
 
 **Tags**: data_science
 
-**Author**: Dmitry Malkov, Data Monsters
+**Committer**: Dmitry Malkov, Data Monsters
 
 ![GitHub Logo](https://progi.pro/media/main/4d/a7/34/4da73418da5e7bbb50fb3cec58f7846d.png)
 
