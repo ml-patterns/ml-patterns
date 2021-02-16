@@ -2,7 +2,7 @@
 
 **Tags**: data_science, feature_importance, shapley_values
 
-**Author**: Dmitry Malkov, Data Monsters
+**Committer**: Dmitry Malkov, Data Monsters
 
 ![GitHub Logo](https://i.stack.imgur.com/lGb7V.png)
 
