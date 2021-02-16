@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-We invite you to participate in the compilation of a library of **patterns** and **cases** of machine learning projects.
+We invite you to participate in the compilation of [a library](https://github.com/ml-patterns/ml-patterns/blob/main/index.md) of **patterns** and **cases** of machine learning projects.
 
-A **pattern** is a description of a common situation, its standard solution, plus a large explaining picture. The text is limited to 1000 characters. The difference between this collection and other materials on the web is that the information in it is presented as concisely as possible, only the essence. [An example of the design of the pattern](https://github.com/ml-patterns/ml-patterns/blob/main/index.md).
+A **pattern** is a description of a common situation, its standard solution, plus a large explaining picture. The text is limited to 1000 characters. The difference between this collection and other materials on the web is that the information in it is presented as concisely as possible, only the essence. [An example of the design of the pattern](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/feature_importance_v1.md).
 
 Various aspects of ML-related projects will be covered:
 
