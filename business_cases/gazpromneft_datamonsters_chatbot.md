@@ -1,4 +1,4 @@
-# Virtual assistant for IT Service Management System
+# Virtual Assistant for IT Service Management System
 
 **Сlient**: Gazprom Neft
 
