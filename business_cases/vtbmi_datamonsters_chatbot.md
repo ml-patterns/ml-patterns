@@ -1,17 +1,18 @@
-# Contact Center Virtual Assistant
+# Virtual assistent for the mobile app
 
-**Tags**: contact_center, virtual_assistant, chatbot, nlp
+**Сlient**: VTB Bank
 
-**Committer**: Dmitry Malkov, Data Monsters
+**Contractor**: Data Monsters
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/IMG_1105.jpg)
+**Date**: February 2021
 
 ### Objective
 
-Reduce the burden on contact center operators by creating a robot that answers standard questions and performs simple actions such as registering requests
+The VTB My Investments mobile application received the Runet award as the best investment application in the Russian segment of the Internet in 2018, 2019 and 2020. Due to the growing number of users, it was required to create a chatbot within the application for automatic consultations on the topic of personal investments.
 
 ### Solution
 
-The entry point to the contact center is the helpdesk software. An incoming client request is authenticated, converted from voice to text, and then classified by the NLU module. If this question is contained in the bot's knowledge base, then the bot gives the answer. It can perform some actions by querying the enterprise API or cloud API, or launch the RPA system. The bot can also run a dialog script if it needs answers to clarifying questions from the user. If the bot cannot recognize the user's words, then the dialogue is transferred to the human operator, and the bot gives him hints in the helpdesk UI, working as a prompter.
+Data Monsters implemented the virtual assistant into the mobile app and trained it in brokerage terminology, having created over 1500 different communication scenarios.
 
-Usually, two instances of the bot are deployed: production and test. The production instance responds to queries, while the test instance is used for safe model and knowledge base updates. Shadow AB testing allows you to make sure that the test instance works better than the current productive one, and at a certain moment, the production bot is replaced by the test one. A rolling update strategy allows you to do this without downtime.
+### Business effect
+The chatbot correctly processes more than 80% of requests, replacing a contact center with 50 to 100 operators. The chatbot conducts over 200,000 conversations every month.
