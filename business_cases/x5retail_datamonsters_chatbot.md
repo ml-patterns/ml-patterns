@@ -1,17 +1,19 @@
-# Contact Center Virtual Assistant
+# Legal virtual assistant for retail
 
-**Tags**: contact_center, virtual_assistant, chatbot, nlp
+**Сlient**: X5Retail
 
-**Committer**: Dmitry Malkov, Data Monsters
+**Contractor**: Data Monsters
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/IMG_1105.jpg)
+**Date**: November 2020
 
 ### Objective
 
-Reduce the burden on contact center operators by creating a robot that answers standard questions and performs simple actions such as registering requests
+It was necessary to automate the answers to legal questions of directors and store employees (for example: What if the inspectors came? What to do if the buyer broke his leg in the store?), since lawyers did not always respond quickly enough.
 
 ### Solution
 
-The entry point to the contact center is the helpdesk software. An incoming client request is authenticated, converted from voice to text, and then classified by the NLU module. If this question is contained in the bot's knowledge base, then the bot gives the answer. It can perform some actions by querying the enterprise API or cloud API, or launch the RPA system. The bot can also run a dialog script if it needs answers to clarifying questions from the user. If the bot cannot recognize the user's words, then the dialogue is transferred to the human operator, and the bot gives him hints in the helpdesk UI, working as a prompter.
+Virtual assistant was implemented to automate legal support. It was trained over 100,000 specific product names and legal terms.
 
-Usually, two instances of the bot are deployed: production and test. The production instance responds to queries, while the test instance is used for safe model and knowledge base updates. Shadow AB testing allows you to make sure that the test instance works better than the current productive one, and at a certain moment, the production bot is replaced by the test one. A rolling update strategy allows you to do this without downtime.
+### Business effect
+The solution was implemented in more than 20,000 stores and made it possible to automate the processing of 70% of requests from directors and other store employees.
+
