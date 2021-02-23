@@ -6,6 +6,8 @@
 
 **Date**: February 2021
 
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/Screenshot%20from%202021-02-24%2000-11-02.png)
+
 ### Objective
 
 The VTB My Investments mobile application received the Runet award as the best investment application in the Russian segment of the Internet in 2018, 2019 and 2020. Due to the growing number of users, it was required to create a chatbot within the application for automatic consultations on the topic of personal investments.
