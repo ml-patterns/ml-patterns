@@ -1,17 +1,25 @@
-# Contact Center Virtual Assistant
+# Image Grabbing and Processing Pipeline
 
-**Tags**: contact_center, virtual_assistant, chatbot, nlp
+**Tags**: image_processing, nvidia_deepstream
 
-**Committer**: Dmitry Malkov, Data Monsters
+**Committer**: German Suvorov, Data Monsters
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/IMG_1105.jpg)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/images/2.jpg)
 
-### Objective
+### Challenge
 
-Reduce the burden on contact center operators by creating a robot that answers standard questions and performs simple actions such as registering requests
+Transfer and preprocess images generated at the edge device for use with deep learning models located on a GPU server.
 
 ### Solution
 
-The entry point to the contact center is the helpdesk software. An incoming client request is authenticated, converted from voice to text, and then classified by the NLU module. If this question is contained in the bot's knowledge base, then the bot gives the answer. It can perform some actions by querying the enterprise API or cloud API, or launch the RPA system. The bot can also run a dialog script if it needs answers to clarifying questions from the user. If the bot cannot recognize the user's words, then the dialogue is transferred to the human operator, and the bot gives him hints in the helpdesk UI, working as a prompter.
-
-Usually, two instances of the bot are deployed: production and test. The production instance responds to queries, while the test instance is used for safe model and knowledge base updates. Shadow AB testing allows you to make sure that the test instance works better than the current productive one, and at a certain moment, the production bot is replaced by the test one. A rolling update strategy allows you to do this without downtime.
+The data is transferred through GigE protocol from the cameras using separate containerized image grabber applications for each camera. 
+Image grabbers operate at the edge computing nodes. They capture frames from the cameras, encode the frames into JPEG bitstream and transfer it to DeepStream Application using ZeroMQ, a high speed low profile message queue.
+DeepStream pipeline is build up with a set of standard DeepStream plugins:
+* The first one, Nvjpegdec decodes JPEG bitstream into RGBA bitmaps using CUDA toolkit with hardware acceleration.
+* The second Nvstreammux plugin packs incoming bitmaps from multiple sources into a batch.
+It waits for a given timeout before forming the batch.
+If the complete batch is formed before the timeout is reached, the batch is pushed down the stream.
+If the timeout is reached before the complete batch can be formed, it just packs the available input buffers and pushes them forward.
+* The third one, Nvinfer performs batched inferencing using the segmentation model. This is where our defect detection magic happens. Nvinfer uses TensorRT inference to run optimized deep learning models.
+* The fourth, Nvmsgconv generates the payload metadata based on the inference results.
+* Finally, the fifth plugin, Nvmsgbroker sends payload messages to the server for further integration into BI applications and factory dashboards.
