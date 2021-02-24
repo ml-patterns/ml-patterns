@@ -12,7 +12,7 @@ Transfer and preprocess images generated at the edge device for use with deep le
 
 ### Solution
 
-The data is transferred through **GigE protocol** from the cameras using separate containerized image grabber applications for each camera. 
+The data is transferred through GigE protocol from the cameras using separate containerized image grabber applications for each camera. 
 Image grabbers operate at the edge computing nodes. They capture frames from the cameras, encode the frames into JPEG bitstream and transfer it to **DeepStream** Application using **ZeroMQ**, a high speed low profile message queue.
 DeepStream pipeline is build up with a set of standard DeepStream plugins:
 * The first one, **Nvjpegdec** decodes JPEG bitstream into RGBA bitmaps using CUDA toolkit with hardware acceleration.
