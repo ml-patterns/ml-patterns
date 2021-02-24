@@ -1,17 +1,15 @@
-# Contact Center Virtual Assistant
+# Defects Detection on a Conveyor
 
-**Tags**: contact_center, virtual_assistant, chatbot, nlp
+**Tags**: manufacturing, defect_detection, computer_vision, anomaly_detection
 
-**Committer**: Dmitry Malkov, Data Monsters
+**Committer**: German Suvorov, Data Monsters
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/IMG_1105.jpg)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/images/1.jpg)
 
-### Objective
+### Challenge
 
-Reduce the burden on contact center operators by creating a robot that answers standard questions and performs simple actions such as registering requests
+Detect product defects on the packaging line moving at 2 m/s (over 2000 products per minute). The same line is used for different products - the product design is changing several times a day. There is no landline internet connection outside the factory floor. Products are distributed unevenly on the line and are covered with water drops. The defects are rare and there is no dataset of defects.
 
 ### Solution
 
-The entry point to the contact center is the helpdesk software. An incoming client request is authenticated, converted from voice to text, and then classified by the NLU module. If this question is contained in the bot's knowledge base, then the bot gives the answer. It can perform some actions by querying the enterprise API or cloud API, or launch the RPA system. The bot can also run a dialog script if it needs answers to clarifying questions from the user. If the bot cannot recognize the user's words, then the dialogue is transferred to the human operator, and the bot gives him hints in the helpdesk UI, working as a prompter.
-
-Usually, two instances of the bot are deployed: production and test. The production instance responds to queries, while the test instance is used for safe model and knowledge base updates. Shadow AB testing allows you to make sure that the test instance works better than the current productive one, and at a certain moment, the production bot is replaced by the test one. A rolling update strategy allows you to do this without downtime.
+Anomaly-detecting computer vision system based on an ensemble of unsupervised deep learning models. Images are captured by hi-speed still cameras (exposure less than 50 microseconds) and specialized lighting system to avoid blurring and flickering. The images are transferred by high-speed GigE interface to a processing server equipped with 2 NVIDIA T4 GPU cards. The server is managed remotely via the cloud-based edge orchestration system NVIDIA FleetCommand using an LTE channel. The models on the server are regularly updated from the cloud. The models are training by observing the flow of products and detecting deviation from the expected product image above certain threshold.
