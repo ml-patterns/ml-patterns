@@ -1,3 +1,29 @@
+### Key mathematical concepts
+
+Function
+Injection
+Surjection
+Bijection
+Continuity
+Smoothness
+Differentiability
+Derivative
+Gradient
+Vector
+Linear Independence
+Matrix
+Tensor
+Tensor product
+Eigenvalue and eigenvector
+Random variable
+Independence
+Joint probability
+Marginal probability
+Conditional probability
+Bayes' law
+Law of large numbers
+
+
 ### Data Science Patterns
 
 * Black-box optimization
@@ -18,15 +44,6 @@
 * [Shapley values](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/shapley_values_v1.md)
 * Linear model
 
-### Architectural patterns
-* Recommender system
-* Question Answering system
-* Information Retrieval system
-* Face Recognition system
-* Speech Generation system
-* Machine Translation system
-* Self-Driving Car
-
 ### Deep Learning Patterns
 * Softmax
 * Residual connections
@@ -45,12 +62,6 @@
 * Abstract factory
 * Observer
 * Chain of responsibility
-
-### DevOps patterns
-* Continuous Integration
-* Container
-* Gitflow
-* VPN
 
 ### Management patterns
 * Agile development
