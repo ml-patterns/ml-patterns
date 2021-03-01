@@ -6,7 +6,7 @@
 
 **Date**: February 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/Screenshot%20from%202021-02-24%2000-11-02.png)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/img_broker_va.png)
 
 ### Challenge
 
