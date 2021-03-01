@@ -6,7 +6,7 @@
 
 **Date**: February 2021
 
-![Scheme](url)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/img_5G_handover_prediction.png)
 
 ### Challenge
 
