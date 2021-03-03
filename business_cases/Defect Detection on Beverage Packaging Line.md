@@ -4,7 +4,7 @@
 
 **Date**: February 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/1.jpg)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/beverage_defects_detection.jpeg)
 
 ### Challenge
 
