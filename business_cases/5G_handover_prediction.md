@@ -12,7 +12,7 @@ Each mobile device in the network is served by a specific base station. When a u
 
 ### Solution
 
-The collection and preparation of data from mobile devices and service stations were carried out using filebeat, Kafka and elasticsearch. On the basis of several dozen different parameters contained in the data, features were formed to determine the beginning of a handover. Several ML models were developed, such as linear model, gradient boosting, recurrent and convolutional neural networks to predict the reference signal received quality from the old and new station after a given time. This made it possible to predict the appropriate handover moment more accurately, thereby improving the user experience of mobile network users.
+The collection and preparation of data from mobile devices and service stations were carried out using **Filebeat**, **Kafka** and **Elasticsearch**. On the basis of several dozen different parameters contained in the data, features were formed to determine the beginning of a handover. Several ML models were developed using **PyTorch**, such as linear model, gradient boosting, recurrent and convolutional neural networks to predict the reference signal received quality from the old and new station after a given time. This made it possible to predict the appropriate handover moment more accurately, thereby improving the user experience of mobile network users.
 
 ### Technologies used
 
