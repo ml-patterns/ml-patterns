@@ -8,7 +8,7 @@
 
 ### Challenge
 
-Each mobile device in the network is served by a specific base station. When a user moves from one station to another, his device must switch to a new station at some point. This procedure is called a handover. Traditionally, the decision to start a handover is made on the basis of strict rules - for example, when the signal from the new station is stronger than the signal from the old station for a certain time. However, these rules are not always optimal and sometimes the handover leads to signal degradation, or, conversely, the handover does not take too long. The task of the project was to determine the moment of handover based on machine learning algorithms.
+Each mobile device in the network is served by a specific base station. When a user moves from one station to another, his device must switch to a new station at some point. This procedure is called a handover. Traditionally, the decision to start a handover is made on the basis of strict rules - for example, when the signal from the new station is stronger than the signal from the old station for a certain time. However, these rules are not always optimal and sometimes the handover leads to signal degradation, or, conversely, the handover does not start for too long. The task of the project was to determine the moment of handover based on machine learning algorithms.
 
 ### Solution
 
