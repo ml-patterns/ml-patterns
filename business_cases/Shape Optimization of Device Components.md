@@ -1,8 +1,8 @@
-# Shape optimization of the device components
+# Shape Optimization of Device Components
 
 **Solution by**: Data Monsters
 
-**Date**: February 2021
+**Date**: March 2021
 
 ![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/shape_optimization.jpg)
 
