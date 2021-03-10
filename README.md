@@ -1,30 +1,38 @@
-### Hi there 👋
+## Hi there 👋
 
-We invite you to participate in the compilation of [a library of **patterns** and **business cases**](https://github.com/ml-patterns/ml-patterns/blob/main/index.md) of machine learning projects.
+We invite you to participate in the compilation of open library of machine learning patterns, solution architectures and business cases.
 
-A **pattern** is a description of a common situation, its standard solution, plus a large explaining picture. The text is limited to 1000 characters. The difference between this collection and other materials on the web is that the information in it is presented as concisely as possible, only the essence. [An example of the design of the pattern](https://github.com/ml-patterns/ml-patterns/blob/main/patterns/feature_importance_v1.md).
+Each page in the library consists of a description of a situation, its solution, and a large explanatory picture. The text is limited to 1000 characters. The key idea is to present information as briefly and clearly as possible - only the essence. [An example of the design of the solution architecture](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md).
 
-Various aspects of ML-related projects will be covered:
-
-* mathematical
-* technical
-* devops
-* QA
-* managerial
-* entrepreneurial
-* personnel
-* financial
-* marketing and others
-
-The format of the **business case** is the same as that of the **pattern**: a picture, a description of the situation and its solution, plus (optionally) a link to the author and / or company. The difference between a **business case** and a **pattern** is that a specific project is described in a **business case**.
+## License 
 
 The project has a free [CC BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) and is created by a team of authors.
 
-The project is not for commercial purposes.
+## Contents
 
-When 300 patterns are typed, a paper book will be released with an indication of all authors. Authors will receive free copies.
+### Key Math Concepts
 
-Thank you for your attention to the project!
+TO BE DONE
+
+### Key Data Science & Machine Learning Concepts
+
+TO BE DONE
+
+### Key Programming Concepts
+
+TO BE DONE
+
+### Machine Learning Design Patterns
+
+TO BE DONE
+
+### Solution Architectures
+
+
+
+### Business Cases
+
+TO BE DONE
 
 <!--
 **ml-patterns/ml-patterns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
