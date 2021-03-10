@@ -4,7 +4,7 @@
 
 **Date**: March 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/images/shape_optimization.jpg)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/shape_optimization.jpg)
 
 ### Challenge
 
