@@ -2,7 +2,7 @@
 
 We invite you to participate in the compilation of open library of machine learning patterns, solution architectures and business cases.
 
-Each page in the library consists of a description of a situation, its solution, and a large explanatory picture. The text is limited to 1000 characters. The key idea is to present information as briefly and clearly as possible - only the essence. [An example of the design of the solution architecture](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md).
+Each page in the library consists of a description of a situation, its solution, and a large explanatory picture. The text is limited to 1000 characters. The key idea is to present information as briefly and clearly as possible - only the essence. [An example of a page](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md).
 
 ## License 
 
@@ -49,7 +49,10 @@ TO BE DONE
 
 ### Solution Architectures
 
-
+* [Handover Prediction in 5G mobile networks](https://github.com/ml-patterns/ml-patterns/blob/main/library/5G%20Handover%20Prediction.md)
+* [Contact Center Robot](https://github.com/ml-patterns/ml-patterns/blob/main/library/Contact%20Center%20Robot.md)
+* [Defect Detection on Beverage Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
+* [Shape Optimization of Device Components](https://github.com/ml-patterns/ml-patterns/blob/main/library/Shape%20Optimization%20of%20Device%20Components.md)
 
 ### Business Cases
 
