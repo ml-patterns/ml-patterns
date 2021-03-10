@@ -4,7 +4,7 @@
 
 **Date**: February 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/img_5g.png)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/5G.jpg)
 
 ### Challenge
 
