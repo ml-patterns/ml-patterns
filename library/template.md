@@ -1,8 +1,6 @@
-# Name
+# Case Name
 
-**Сlient**: Client name
-
-**Contractor**: Contractor name
+**Solution by**: Your Company Name
 
 **Date**: February 2021
 
@@ -16,6 +14,6 @@ Challenge
 
 Solution
 
-### Business effect
+### Technologies
 
-Business effect
+Technologies used
