@@ -12,7 +12,28 @@ The project has a free [CC BY-SA license](https://creativecommons.org/licenses/b
 
 ### Key Math Concepts
 
-TO BE DONE
+* Function
+* Injection
+* Surjection
+* Bijection
+* Continuity
+* Smoothness
+* Differentiability
+* Derivative
+* Gradient
+* Vector
+* Linear Independence
+* Matrix
+* Tensor
+* Tensor product
+* Eigenvalue and eigenvector
+* Random variable
+* Independence
+* Joint probability
+* Marginal probability
+* Conditional probability
+* Bayes' law
+* Law of large numbers
 
 ### Key Data Science & Machine Learning Concepts
 
