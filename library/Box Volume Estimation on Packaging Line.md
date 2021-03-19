@@ -1,6 +1,6 @@
-# Case Name
+# Box Volume Estimation on Packaging Line.md
 
-**Solution by**: Your Company Name
+**Solution by**: Data Monsters
 
 **Date**: March 2021
 
@@ -8,12 +8,12 @@
 
 ### Challenge
 
-Challenge
+Boxes with contents move along the conveyor, and the empty volume in them is filled with a special filler. The content of each box is different, so it is necessary to calculate the required amount of filler for each box individually, balancing precision, operating speed, and the cost of the equipment.
 
 ### Solution
 
-Solution
+The 3D camera is positioned above the production conveyor. It takes a depth map of a box and its contents. Anomalies and noise are then removed from the image. The neural network deployed to Nvidia Jetson uses a depth map to calculate the dimensions of a box, as well as the volume of its contents. Based on the data obtained, the required filler volume is calculated.
 
-### Technologies
+### Technologies used:
 
-Technologies used
+Nvidia Jetson Xavier, Allen Bradley PLC
