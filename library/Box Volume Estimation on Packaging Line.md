@@ -1,4 +1,4 @@
-# Box Volume Estimation on Packaging Line.md
+# Box Volume Estimation on Packaging Line
 
 **Solution by**: Data Monsters
 
