@@ -53,6 +53,7 @@ TO BE DONE
 * [Contact Center Robot](https://github.com/ml-patterns/ml-patterns/blob/main/library/Contact%20Center%20Robot.md)
 * [Defect Detection on Beverage Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
 * [Shape Optimization of Device Components](https://github.com/ml-patterns/ml-patterns/blob/main/library/Shape%20Optimization%20of%20Device%20Components.md)
+* [Box Volume Estimation on Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Box%20Volume%20Estimation%20on%20Packaging%20Line.md)
 
 ### Business Cases
 
