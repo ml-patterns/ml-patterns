@@ -4,7 +4,7 @@
 
 **Date**: March 2021
 
-![Scheme](url)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/img_box_volume_estimation.png)
 
 ### Challenge
 
@@ -12,7 +12,7 @@ Boxes with contents move along the conveyor, and the empty volume in them is fil
 
 ### Solution
 
-The 3D camera is positioned above the production conveyor. It takes a depth map of a box and its contents. Anomalies and noise are then removed from the image. The neural network deployed to Nvidia Jetson uses a depth map to calculate the dimensions of a box, as well as the volume of its contents. Based on the data obtained, the required filler volume is calculated.
+The 3D camera is positioned above the production conveyor. It takes a depth map of a box and its contents. Anomalies and noise are then removed from the image. The neural network deployed to Nvidia Jetson Xavier uses a depth map to calculate the dimensions of a box, as well as the volume of its contents. Based on the data obtained, the required filler volume is calculated.
 
 ### Technologies used:
 
