@@ -54,6 +54,7 @@ TO BE DONE
 * [Defect Detection on Beverage Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
 * [Shape Optimization of Device Components](https://github.com/ml-patterns/ml-patterns/blob/main/library/Shape%20Optimization%20of%20Device%20Components.md)
 * [Box Volume Estimation on Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Box%20Volume%20Estimation%20on%20Packaging%20Line.md)
+* [Automatic Detection of Pipeline Defects](https://github.com/ml-patterns/ml-patterns/blob/main/library/Automatic%20Detection%20of%20Pipeline%20Defects.md)
 
 ### Business Cases
 
