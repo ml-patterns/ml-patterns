@@ -1,4 +1,4 @@
-# Detection of animals in wildlife using video cameras
+# Detection of Animals in Wildlife with Video Cameras
 
 **Solution by**: Data Monsters
 
