@@ -55,6 +55,7 @@ TO BE DONE
 * [Shape Optimization of Device Components](https://github.com/ml-patterns/ml-patterns/blob/main/library/Shape%20Optimization%20of%20Device%20Components.md)
 * [Box Volume Estimation on Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Box%20Volume%20Estimation%20on%20Packaging%20Line.md)
 * [Automatic Detection of Pipeline Defects](https://github.com/ml-patterns/ml-patterns/blob/main/library/Automatic%20Detection%20of%20Pipeline%20Defects.md)
+* [Detection of Animals in Wildlife with Video Cameras](https://github.com/ml-patterns/ml-patterns/blob/main/library/Detection%20of%20Animals%20in%20Wildlife%20with%20Video%20Cameras.md)
 
 ### Business Cases
 

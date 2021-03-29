@@ -4,7 +4,7 @@
 
 **Date**: March 2021
 
-![Scheme](url)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Detection_of%20Animals_in_Wildlife_with_Video_Cameras.jpg)
 
 ### Challenge
 
