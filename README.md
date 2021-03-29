@@ -4,6 +4,13 @@ We invite you to participate in the compilation of open library of machine learn
 
 Each page in the library consists of a description of a situation, its solution, and a large explanatory picture. The text is limited to 1000 characters. The key idea is to present information as briefly and clearly as possible - only the essence. [An example of a page](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md).
 
+## Contribution
+
+For adding a new pattern, please use [template.md](https://github.com/ml-patterns/ml-patterns/blob/main/library/template.md) as a template, and raise an issue and later PR.
+To request for improvement, change or question, please propose an issue.
+
+Please read the [CLA](https://github.com/ml-patterns/ml-patterns/blob/main/CLA.md) before submitting your contribution to the project. Under any circumstances, by submitting your contribution, you are deemed to accept and agree to be bound by the terms and conditions of the CLA.
+
 ## License 
 
 The project has a free [CC BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) and is created by a team of authors.
