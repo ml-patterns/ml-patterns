@@ -17,45 +17,6 @@ The project has a free [CC BY-SA license](https://creativecommons.org/licenses/b
 
 ## Contents
 
-### Key Math Concepts
-
-* Function
-* Injection
-* Surjection
-* Bijection
-* Continuity
-* Smoothness
-* Differentiability
-* Derivative
-* Gradient
-* Vector
-* Linear Independence
-* Matrix
-* Tensor
-* Tensor product
-* Eigenvalue and eigenvector
-* Random variable
-* Independence
-* Joint probability
-* Marginal probability
-* Conditional probability
-* Bayes' law
-* Law of large numbers
-
-### Key Data Science & Machine Learning Concepts
-
-TO BE DONE
-
-### Key Programming Concepts
-
-TO BE DONE
-
-### Machine Learning Design Patterns
-
-TO BE DONE
-
-### Solution Architectures
-
 * [Handover Prediction in 5G mobile networks](https://github.com/ml-patterns/ml-patterns/blob/main/library/5G%20Handover%20Prediction.md)
 * [Contact Center Robot](https://github.com/ml-patterns/ml-patterns/blob/main/library/Contact%20Center%20Robot.md)
 * [Defect Detection on Beverage Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
@@ -64,10 +25,6 @@ TO BE DONE
 * [Automatic Detection of Pipeline Defects](https://github.com/ml-patterns/ml-patterns/blob/main/library/Automatic%20Detection%20of%20Pipeline%20Defects.md)
 * [Detection of Animals in Wildlife with Video Cameras](https://github.com/ml-patterns/ml-patterns/blob/main/library/Detection%20of%20Animals%20in%20Wildlife%20with%20Video%20Cameras.md)
 * [AI Radiology — Chest X-ray Screening System for Medical Organizations](https://github.com/ml-patterns/ml-patterns/blob/main/library/AI%20Radiology%20%E2%80%94%20Chest%20X-ray%20Screening%20System%20for%20Medical%20Organizations.md)
-
-### Business Cases
-
-TO BE DONE
 
 <!--
 **ml-patterns/ml-patterns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
