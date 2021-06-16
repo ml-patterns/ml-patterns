@@ -1,6 +1,6 @@
 # Aircraft blade inspection
 
-**Solution by**: Artificial Intelligence Institute of Innopolis University
+**Solution by**: [Artificial Intelligence Institute of Innopolis University](https://innopolis.university/en/)
 
 **Date**: May 2021
 
