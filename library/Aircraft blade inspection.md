@@ -1,10 +1,10 @@
 # Aircraft blade inspection
 
-**Solution by**: Artificial Intelligence Institute of Innopolis University
+**Solution by**: [Artificial Intelligence Institute of Innopolis University](https://innopolis.university/en/)
 
 **Date**: May 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Aircraft blade inspection.png)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Aircraft_blade_inspection.png)
 
 ### Challenge
 
