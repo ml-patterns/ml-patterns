@@ -4,7 +4,7 @@
 
 **Date**: May 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Aircraft blade inspection.png)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Aircraft_blade_inspection.png)
 
 ### Challenge
 
