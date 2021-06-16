@@ -26,6 +26,7 @@ The project has a free [CC BY-SA license](https://creativecommons.org/licenses/b
 * [Detection of Animals in Wildlife with Video Cameras](https://github.com/ml-patterns/ml-patterns/blob/main/library/Detection%20of%20Animals%20in%20Wildlife%20with%20Video%20Cameras.md)
 * [AI Radiology — Chest X-ray Screening System for Medical Organizations](https://github.com/ml-patterns/ml-patterns/blob/main/library/AI%20Radiology%20%E2%80%94%20Chest%20X-ray%20Screening%20System%20for%20Medical%20Organizations.md)
 * [Automatic Change Detection in Forests](https://github.com/ml-patterns/ml-patterns/blob/main/library/Automatic_Change_Detection_in_Forests.md)
+* [Aircraft blade inspection](https://github.com/ml-patterns/ml-patterns/blob/main/library/Aircraft%20blade%20inspection.md)
 
 <!--
 **ml-patterns/ml-patterns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
