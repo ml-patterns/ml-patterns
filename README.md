@@ -2,7 +2,7 @@
 
 We invite you to participate in the compilation of open library of machine learning patterns and solution architectures.
 
-Each page in the library consists of a description of a situation, its solution, and a large explanatory picture. The text is limited to 1000 characters. The key idea is to present information as briefly and clearly as possible - only the essence. [An example of a page](https://github.com/ml-patterns/ml-patterns/blob/main/business_cases/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md).
+Each page in the library consists of a description of a situation, its solution, and a large explanatory picture. The text is limited to 1000 characters. The key idea is to present information as briefly and clearly as possible - only the essence. [An example of a page](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md).
 
 ## Contribution
 
