@@ -1,6 +1,6 @@
 # Quantizing Transformer-Based Models
 
-**Solution by**: ![MIL Team](https://machine-intelligence.ru/en/about)
+**Solution by**: [MIL Team](https://machine-intelligence.ru/en/about)
 
 **Date**: July 2021
 
@@ -13,7 +13,7 @@ When porting neural network models to devices (watches, speakers, cameras, refri
 ### Solution
 
 We took the SOTA implementation of the transformer-based model architecture and quantized its layers and operations. For successful and fair quantization, it was necessary to implement quantized versions for all modules used inside the PyTorch model. A handy tool was also made to replace the original PyTorch modules with quantized ones. The algorithm for the best quantization strategy was implemented in a large number of experiments. As a result, the quality loss during the 2-bit quantization of models was reduced from 60% to just 3%.
-We used the ASR transformer architecture implemented in the Fairseq open repository, presented in the article ![Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), a [LibriSpeech dataset](http://www.openslr.org/12/) for training speech recognition models, and a framework for quantizing models with complex architectures written for PyTorch by the MIL Team.
+We used the ASR transformer architecture implemented in the Fairseq open repository, presented in the article [Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), a [LibriSpeech dataset](http://www.openslr.org/12/) for training speech recognition models, and a framework for quantizing models with complex architectures written for PyTorch by the MIL Team.
 
 ### Technologies
 
