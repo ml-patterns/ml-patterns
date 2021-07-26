@@ -16,4 +16,4 @@ A pipeline was developed, including processing the CAD file, automatically runni
 
 ### Technologies used
 
-Finite element analysis, Bayesian optimization, Remote procedure call
+Finite element analysis, Bayesian optimization, Python
