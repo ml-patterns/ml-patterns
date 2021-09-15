@@ -4,7 +4,7 @@
 
 **Date**: September 2021
 
-![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Product_recommendation_system based_on_text_customer_reviews.jpeg)
+![Scheme](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/Product_recommendation_system_based_on_text_customer_reviews.jpeg)
 
 ### Challenge
 
