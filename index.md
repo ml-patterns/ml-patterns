@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/ml-patterns/ml-patterns/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[<img src="https://github.com/ml-patterns/ml-patterns/blob/main/library/images/beverage_defects_detection.jpeg">](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
+
 [![Foo](https://github.com/ml-patterns/ml-patterns/blob/main/library/images/beverage_defects_detection.jpeg)](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
 
 ### Markdown
