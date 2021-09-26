@@ -21,6 +21,7 @@ The project has a free [CC BY-SA license](https://creativecommons.org/licenses/b
 
 ### Manufacturing
 * [Defect Detection on Beverage Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
+* [Identification of defects on sheet glass products](https://github.com/ml-patterns/ml-patterns/blob/main/library/Identification%20of%20defects%20on%20sheet%20glass%20products.md)
 * [Box Volume Estimation on Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Box%20Volume%20Estimation%20on%20Packaging%20Line.md)
 * [Automatic Detection of Pipeline Defects](https://github.com/ml-patterns/ml-patterns/blob/main/library/Automatic%20Detection%20of%20Pipeline%20Defects.md)
 * [Shape Optimization of Device Components](https://github.com/ml-patterns/ml-patterns/blob/main/library/Shape%20Optimization%20of%20Device%20Components.md)
