@@ -21,7 +21,7 @@ The project has a free [CC BY-SA license](https://creativecommons.org/licenses/b
 
 ### Manufacturing
 * [Defect Detection on Beverage Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Defect%20Detection%20on%20Beverage%20Packaging%20Line.md)
-* [Identification of defects on sheet glass products](https://github.com/ml-patterns/ml-patterns/blob/main/library/Identification%20of%20defects%20on%20sheet%20glass%20products.md)
+* [Identification of Defects on Sheet Glass Products](https://github.com/ml-patterns/ml-patterns/blob/main/library/Identification%20of%20defects%20on%20sheet%20glass%20products.md)
 * [Box Volume Estimation on Packaging Line](https://github.com/ml-patterns/ml-patterns/blob/main/library/Box%20Volume%20Estimation%20on%20Packaging%20Line.md)
 * [Automatic Detection of Pipeline Defects](https://github.com/ml-patterns/ml-patterns/blob/main/library/Automatic%20Detection%20of%20Pipeline%20Defects.md)
 * [Shape Optimization of Device Components](https://github.com/ml-patterns/ml-patterns/blob/main/library/Shape%20Optimization%20of%20Device%20Components.md)
@@ -29,7 +29,7 @@ The project has a free [CC BY-SA license](https://creativecommons.org/licenses/b
 
 ### Healthcare
 * [AI Radiology — Chest X-ray Screening System for Medical Organizations](https://github.com/ml-patterns/ml-patterns/blob/main/library/AI%20Radiology%20%E2%80%94%20Chest%20X-ray%20Screening%20System%20for%20Medical%20Organizations.md)
-* [Recognition of human gestures based on data from smart watches](https://github.com/ml-patterns/ml-patterns/blob/main/library/Recognition%20of%20human%20gestures%20based%20on%20data%20from%20smart%20watches.md)
+* [Recognition of Human Gestures Based on Data from Smart Watches](https://github.com/ml-patterns/ml-patterns/blob/main/library/Recognition%20of%20human%20gestures%20based%20on%20data%20from%20smart%20watches.md)
 
 ### Ecology
 * [Detection of Animals in Wildlife with Video Cameras](https://github.com/ml-patterns/ml-patterns/blob/main/library/Detection%20of%20Animals%20in%20Wildlife%20with%20Video%20Cameras.md)
