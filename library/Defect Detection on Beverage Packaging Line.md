@@ -1,6 +1,6 @@
 # Defect Detection on Beverage Packaging Line
 
-**Solution by**: Data Monsters
+**Solution by**: [Data Monsters](www.datamonsters.com)
 
 **Date**: February 2021
 
